@@ -1,13 +1,10 @@
 # Hello there! Welcome to my GitHub profile 👋
-## My real name is *Luís Eduardo*
+## My name is *Luís Eduardo*
 
  - **I'm currently in high school** :pencil2:
  - **I'm from Porto Alegre/RS, Brazil** :shipit:
  - **Studying on a programming course** :computer:
  - **I love to go to the gym and play voleyball** :muscle:
-
-
-   ***Pronouns: He/him***
 
    
 **Learning python programming language**
