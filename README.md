@@ -24,5 +24,3 @@
 </div>
 
 ***Nice to meet you***
-
-![gmfu-cat](https://github.com/yemnno/projeto/assets/172146720/2e2d93c2-3903-4e35-8a37-e1de0bc9fc2f)
