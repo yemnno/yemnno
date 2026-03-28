@@ -2,12 +2,12 @@
 ## My name is *Luís Eduardo*
 
  - **I'm currently in high school** :pencil2:
- - **I'm from Porto Alegre/RS, Brazil** :shipit:
+ - **I'm from Porto Alegre/RS, Brazil** :triangular_flag_on_post:
  - **Studying on a programming course** :computer:
- - **I love to go to the gym and play voleyball** :muscle:
+ - **I go to the gym and play voleyball** :muscle:
 
    
-**Learning python programming language**
+**Learned the basics on Python and currently learning JavaScript**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="60"/>
 
