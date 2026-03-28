@@ -10,6 +10,7 @@
 **Learned the basics on Python and currently learning JavaScript**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="60"/>
+<img alt="Javascript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Javascript.svg">
 
 ## Contact:
 
